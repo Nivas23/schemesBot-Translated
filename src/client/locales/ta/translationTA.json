@@ -1,0 +1,165 @@
+{
+
+    "welcome_message":"ஹலோ! நான் {{botName}}. நான் உங்களுக்கு எப்படி உதவ வேண்டும்",
+    "Search": "தேடு",
+    "scheme": "திட்டம்",
+    "Latest": "சமீபத்திய",
+    "schemes": "திட்டங்கள்",
+    "Suggest": "அருகைப்படி",
+    "FAQ": "தரமணி",
+
+    "Sure! Which government scheme are you interested in? Please provide the scheme name or a brief description.":"நிச்சயமாக! எந்த அரசாங்க திட்டத்தில் நீங்கள் ஆர்வமாக உள்ளீர்கள்? திட்டத்தின் பெயர் அல்லது சுருக்கமான விளக்கத்தை வழங்கவும்.",
+    "Here are some of the latest schemes.":"இவை சமீபத்திய திட்டங்களில் சில.",
+    "Here are some of the frequently asked questions":"அடிக்கடி கேட்கப்படும் சில கேள்விகள் இவை",
+    
+    "Your choice":"உங்கள் பதில்",
+
+    "Let's start with the details.Your Gender": "விவரங்களைப் பெறுவதில் இருந்து ஆரம்பிக்கலாம்.உங்கள் பாலினம்?",
+    "Male":"ஆண்",
+    "Female":"பெண்",
+    "Transgender":"திருநங்கை",
+
+    "Enter your age":"உங்கள் வயதை உள்ளிடவும்",
+    "Please,enter a valid age!":"சரியான வயதை உள்ளிடவும்!",
+
+    "Your city":"உங்கள் நகரம்",
+    "select city": "நகரத்தைத் தேர்ந்தெடுக்கவும்",
+    "cities": {
+    "Ariyalur": "அரியலூர்",
+    "Chennai": "சென்னை",
+    "Coimbatore": "கோயம்புத்தூர்",
+    "Cuddalore": "குடலூர்",
+    "Dharmapuri": "தர்மபுரி",
+    "Dindigul": "திண்டுக்கல்",
+    "Erode": "எழுதுபுத்தூர்",
+    "Kanchipuram": "காஞ்சிபுரம்",
+    "Kanyakumari": "கன்னியாகுமரி",
+    "Karur": "கரூர்",
+    "Krishnagiri": "கிருஷ்ணகிரி",
+    "Madurai": "மதுரை",
+    "Nagapattinam": "நாகை",
+    "Namakkal": "நாமக்கல்",
+    "Nilgiris": "நில்கிரிஸ்",
+    "Perambalur": "பெரம்பலூர்",
+    "Pudukkottai": "புதுக்கோட்டை",
+    "Ramanathapuram": "ராமநாதபுரம்",
+    "Salem": "சேலம்",
+    "Sivaganga": "சிவகங்கை",
+    "Thanjavur": "தஞ்சாவூர்",
+    "Theni": "தேனி",
+    "Thoothukudi": "தூத்துக்குடி",
+    "Tiruchirappalli": "திருச்சிராப்பள்ளி",
+    "Tirunelveli": "திருநெல்வேலி",
+    "Tiruppur": "திருப்பூர்",
+    "Tiruvallur": "திருவள்ளூர்",
+    "Tiruvannamalai": "திருவண்ணாமலை",
+    "Tiruvarur": "திருவாரூர்",
+    "Vellore": "வேலூர்",
+    "Viluppuram": "வில்லுப்புரம்",
+    "Virudhunagar": "விருதுநகர்"
+  },
+
+    "Your Community":"உங்கள் சாதி",
+
+
+    "Are you Differently abled ?":"நீங்கள் மாற்றுத் திறனாளியா?",
+    "Yes":"ஆம்",
+    "No":"இல்லை",
+
+    "Which category best describes you?":"கீழே உள்ள விருப்பங்களில் இருந்து உங்கள் தொழிலைத் தேர்ந்தெடுத்தீர்கள்",
+
+    "Occupations":{
+        "Farmers":"விவசாயி",
+        "Manufacturers":"உற்பத்தியாளர்",
+        "Students":"மாணவ ர்",
+        "HandloomWeavers":"கைத்தறி நெசவாளர்",
+        "Journalists":"பத்திரிகையாளர்",
+        "Unemployed":"வேலை இல்லாதோர்",
+        "GovernmentEmployees":"அரசு ஊழியர்"
+    },
+
+    "Let me gather the schemes for you.":"உங்களுக்கான திட்டங்களை சேகரித்து பட்டியலிட்டுள்ளேன்.",
+
+
+    "faq":{
+        "What can I do with this chatbot?": "இந்த சாட்போட் மூலம் நான் என்ன செய்ய முடியும்?",
+        "You can use this chatbot to search for specific government schemes by name, receive scheme suggestions based on your details (such as gender, age, community, and work category), and find out about the latest schemes available.": "இந்த சாட்போட்டைப் பயன்படுத்தி, குறிப்பிட்ட அரசாங்கத் திட்டங்களைப் பெயர் மூலம் தேடலாம், உங்கள் விவரங்களின் அடிப்படையில் திட்டப் பரிந்துரைகளைப் பெறலாம் (பாலினம், வயது, சமூகம் மற்றும் பணி வகை போன்றவை) மற்றும் சமீபத்திய திட்டங்களைப் பற்றி அறியவும்.",
+        "How do I search for a specific scheme by name?": "ஒரு குறிப்பிட்ட திட்டத்தைப் பெயரால் நான் எவ்வாறு தேடுவது?",
+        "Simply type the name of the scheme you're interested in, and the chatbot will provide you with detailed information about that scheme.": "நீங்கள் ஆர்வமாக உள்ள திட்டத்தின் பெயரை தட்டச்சு செய்தால் போதும், அந்த திட்டத்தைப் பற்றிய விரிவான தகவலை சாட்பாட் உங்களுக்கு வழங்கும்",
+        "Can I get scheme suggestions based on my details?": "எனது விவரங்களின் அடிப்படையில் திட்டப் பரிந்துரைகளைப் பெற முடியுமா?",
+        "Yes, you can! Provide your gender, age, community, and work category details when prompted, and the chatbot will recommend relevant schemes for you.": "ஆம், உங்களால் முடியும்! கேட்கும் போது உங்கள் பாலினம், வயது, சமூகம் மற்றும் பணி வகை விவரங்களை வழங்கவும், மேலும் சாட்பாட் உங்களுக்கான பொருத்தமான திட்டங்களை பரிந்துரைக்கும்.",
+        "How do I access the latest schemes?": "சமீபத்திய திட்டங்களை எவ்வாறு அணுகுவது?",
+        "Choose the option to get the latest schemes from the chatbot's menu, and it will provide you with information about the most recent government schemes available.": "சாட்போட் மெனுவிலிருந்து சமீபத்திய திட்டங்களைப் பெறுவதற்கான விருப்பத்தைத் தேர்வுசெய்யவும், மேலும் இது சமீபத்திய அரசாங்கத் திட்டங்களைப் பற்றிய தகவலை உங்களுக்கு வழங்கும்.",
+        "What kind of details do I need to provide for scheme suggestions?": "திட்டப் பரிந்துரைகளுக்கு நான் என்ன வகையான விவரங்களை வழங்க வேண்டும்?",
+        "For personalized scheme suggestions, please provide your gender, age, community (if applicable), and your current work category or employment status.": "பரிந்துரை செய்யப்பட்ட திட்டங்களைப் பெற, தயவுசெய்து உங்கள் பாலினம், வயசு, சமூகத்துடன், மற்றும் தற்போதைய  பணி வகை அல்லது வேலை நிலை ஆகியவற்றை வழங்கவும்.",
+        "How accurate and up-to-date is the information provided by the chatbot?": "சாட்போட் வழங்கிய தகவல் எவ்வளவு துல்லியமானது மற்றும் புதுப்பித்துள்ளது?",
+        "The chatbot is designed to provide accurate and current information based on the latest available data about government schemes. However, it's recommended to verify details from official sources for critical decisions.": "அரசு திட்டங்களைப் பற்றிய சமீபத்திய தரவுகளின் அடிப்படையில் துல்லியமான மற்றும் தற்போதைய தகவலை வழங்குவதற்காக சாட்பாட் வடிவமைக்கப்பட்டுள்ளது. இருப்பினும், முக்கியமான முடிவுகளுக்கு அதிகாரப்பூர்வ ஆதாரங்களில் இருந்து விவரங்களைச் சரிபார்க்க பரிந்துரைக்கப்படுகிறது.",
+        "Can I get information about eligibility criteria for schemes?": "திட்டங்களுக்கு உரிய தகுதி அளவுகோல்களை  தகவல்கள் பெற முடியுமா?",
+        "Yes, the chatbot can provide eligibility criteria for specific schemes upon request.": "ஆம், chatbot குறிப்பிட்ட திட்டங்களுக்கு உரிய தகுதி அளவுகோல்களை அளிக்கக்கூடியது.",
+        "What if I encounter issues or need further assistance?": "நான் சிக்கல்களை சந்தித்தால் அல்லது மேலும் உதவி தேவைப்பட்டால் என்ன செய்வது?",
+        "If you have any issues or need additional assistance, feel free to contact our support team [provide contact details or link to support].": "உங்களுக்கு ஏதேனும் சிக்கல்கள் இருந்தால் அல்லது கூடுதல் உதவி தேவைப்பட்டால், எங்கள் ஆதரவுக் குழுவைத் தொடர்புகொள்ளவும் [தொடர்பு விவரங்களை வழங்கவும் அல்லது ஆதரவிற்கான இணைப்பை வழங்கவும்].",
+        "Is my personal information safe when interacting with this chatbot?": "இந்த chatbot உடன் தொடர்புகொள்கையில் என் தனிப்பட்ட தகவல்கள் பாதுகாப்பாக உள்ளதா?",
+        "Yes, your privacy and personal information are important to us. We do not store or misuse any personal details provided during interactions.": "ஆம், உங்கள் தனியுரிமை மற்றும் தனிப்பட்ட தகவல்கள் எங்களுக்கு முக்கியம். தொடர்புகளின் போது வழங்கப்பட்ட தனிப்பட்ட விவரங்களை நாங்கள் சேமித்து வைப்பதில்லை அல்லது தவறாகப் பயன்படுத்துவதில்லை.",
+        "How do I start using the chatbot?": "நான் எப்படி சாட்போட்டைப் பயன்படுத்தத் தொடங்குவது?",
+        "Simply begin by selecting one of the available options presented by the chatbot or type your query to get started.": "தயவுசெய்து chatbot க்கு வழங்கப்பட்ட விருப்பங்களில் ஒன்று தேர்ந்தெடுக்கவும் அல்லது உங்கள் கேள்வியை டைப் செய்யவும்."
+      },
+
+      "LatestSchemes":{
+        "LaunchedDate": "நிறுவப்பட்ட தேதி",
+        "Benefits": "நன்மைகள்",
+        "ModeOfApply": "விண்ணப்பிக்கும் முறை",
+        "Beneficiaries": "பயனாளிகள்",
+
+
+        "Tamil Nadu Pongal Gift Scheme": "தமிழ் நாடு பொங்கல் பரிசு திட்டம்",
+        "05-01-2024": "05-01-2024",
+        "Cash Assistance of Rs. 1,000/-": "ரூ. 1,000/- என்ற நகைத் தொகை",
+        "Pongal Gift Hamper": "பொங்கல் பரிசு தொகுப்பு",
+        "Residents of Tamil Nadu": "தமிழ் நாடு வாழ்கைகள்",
+        "Through Ration Shops (Fair Price Shop)": "வகை கடைகளின் மூலம்",
+        
+        "Tamil Nadu Kalaignar Sports Kit Scheme": "தமிழ் நாடு கலைஞர் விளையாட்டு கட்டமைப்பு திட்டம்",
+        "07-02-2024": "07-02-2024",
+        "Free Sports Kit will be Provided": "இலவச விளையாட்டு கட்டமைப்பு வழங்கப்படும்",
+        "Players/Students of Tamil Nadu": "தமிழ் நாடு வீரர்கள்/மாணவர்கள்",
+        "Through Kalaignar Sports Kit Scheme Application Form": "கலைஞர் விளையாட்டு கட்டமைப்பு திட்டம் விண்ணப்பம் மூலம்",
+      
+        "Tamil Nadu Magalir Urimai Thogai Scheme": "தமிழ் நாடு மகளிர் உரிமை தொகை திட்டம்",
+        "15th September 2023": "15ஆம் செப்டம்பர் 2023",
+        "Financial Assistance of Rs. 1,000/- per Month": "மாதத்திற்கு ரூ. 1,000/- என்ற நிதி உதவி",
+        "Women of Tamil Nadu": "தமிழ் நாடு பெண்கள்",
+        "Tamil Nadu Magalir Urimai Thogai Scheme Website": "தமிழ் நாடு மகளிர் உரிமை தொகை திட்டம் இணையதளம்",
+        "Department of Social Welfare & Women Empowerment, Tamil Nadu": "தமிழ் நாடு சமூக நலப்பணிகள் & பெண்கள் அதிகாரம் அமைச்சகம்",
+        "Through Tamil Nadu Magalir Urimai Thogai Scheme Application Form": "தமிழ் நாடு மகளிர் உரிமை தொகை திட்டம் விண்ணப்பம் மூலம்",
+      
+        "Tamil Nadu Chief Minister Fellowship Programme": "தமிழ் நாடு முதல்வர் Fellowship திட்டம்",
+        "Rs. 65,000/- per month as a fellowship": "மாதத்திற்கு ரூ. 65,000/- என்ற Fellowship",
+        "Rs. 10,000/- The monthly additional allowance": "மாதத்திற்கு ரூ. 10,000/- என்ற கூடுதல் உதவி",
+        "Young Professionals of Tamil Nadu": "தமிழ் நாடு இளம் தொழில்முனைவோர்கள்",
+        "Special Programme Implementation Department": "சிறப்பு திட்ட செயல்பாடு அமைச்சகம்",
+        "Online Application form": "ஆன்லைன் விண்ணப்பம்",
+      
+        "Tamil Nadu Makkaludan Mudhalvar Scheme": "தமிழ் நாடு மக்கள் உன்னுடைய முதல்வர் திட்டம்",
+        "2023": "2023",
+        "Beneficiary can file grievance against government services": "நன்மைபெற்றவர் அரசு சேவைகளுக்கு எதிராக புகார் பதிவு செய்யலாம்",
+        "All filed grievances will be resolved in 30 days": "நிறுத்தப்பட்ட புகார்கள் 30 நாட்களில் தீர்க்கப்படும்",
+        "Tamil Nadu Residents": "தமிழ் நாடு வாழ்கைகள்",
+        "Tamil Nadu Makkaludan Mudhalvar Scheme Website": "தமிழ் நாடு மக்கள் உன்னுடைய முதல்வர் திட்டம் இணையதளம்",
+        "By Visiting Makkaludan Mudhalvar Scheme Camp Location": "மக்கள் உன்னுடைய முதல்வர் திட்டம் முகாம் இடத்தில் செல்ல வேண்டும்",
+      
+        "Moovalur Ramamirtham Ammaiyar Higher Education Assurance Scheme": "மூவலூர் ராமாமிர்தம் அம்மையார் உயர்தர கல்வி உறுதி திட்டம்",
+        "Financial Assistance to meet the cost of education": "கல்வி செலவுகளை meet செய்ய நிதி உதவி",
+        "Girl Students of Tamil Nadu": "தமிழ் நாடு கன்னி மாணவிகள்",
+        "Rs. 1,000/- per month till the completion of the course": "பாடத்தை முடிக்கும் வரை மாதத்திற்கு ரூ. 1,000/-",
+        "Department of Social Welfare and Women Empowerment, Tamil Nadu": "தமிழ் நாடு சமூக நலப்பணிகள் மற்றும் பெண்கள் அதிகாரம் அமைச்சகம்",
+        "Through Moovalur Ramamirtham Ammaiyar Education Assurance Scheme Application Form": "மூவலூர் ராமாமிர்தம் அம்மையார் கல்வி உறுதி திட்டம் விண்ணப்பம் மூலம்",
+      
+        "Tamil Nadu Chief Minister Breakfast Scheme": "தமிழ் நாடு முதல்வர் காலை உணவு திட்டம்",
+        "15-09-2022": "15-09-2022",
+        "Nutritious Breakfast will be Provided to Primary School Students": "அரும்பள்ளி மாணவர்களுக்கு ஊட்டச்சத்து மிக்க காலை உணவு வழங்கப்படும்",
+        "Primary School Students of Tamil Nadu": "தமிழ் நாடு ஆரம்ப பள்ளி மாணவர்கள்",
+        "Department of Social Welfare & Women Empowerment, Tamil Nadu Government": "தமிழ் நாடு அரசு சமூக நலப்பணிகள் & பெண்கள் அதிகாரம் அமைச்சகம்",
+        "No Need to Apply Anywhere for Chief Minister Breakfast Scheme": "முதல்வர் காலை உணவு திட்டத்திற்கு எங்கும் விண்ணப்பிக்க தேவையில்லை"
+      }
+
+}
